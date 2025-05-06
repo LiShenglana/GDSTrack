@@ -14,7 +14,7 @@
 
 ```shell
 conda env create -f env.yaml
-conda activate mat
+conda activate GDSTrack
 pip install --upgrade git+https://github.com/got-10k/toolkit.git@master
 # (You can use `pipreqs ./root` to analyse the requirements of this project.)
 ```
@@ -140,9 +140,9 @@ python test.py --gpu_id=0,1 --num_process=0 --experiment=translate_track --train
 
 ## **Acknowledgments**
 
-- Thanks for the great [MAE](https://github.com/facebookresearch/mae),
-[MixFormer](https://github.com/MCG-NJU/MixFormer),
-[pysot](https://github.com/STVIR/pysot).
+- Thanks for the great [MAT](https://github.com/difhnp/MAT),
+[USOT](https://github.com/VISION-SJTU/USOT),
+[GMMT](https://github.com/Zhangyong-Tang/GMMT).
 - For data augmentation, we use [Albumentations](https://github.com/albumentations-team/albumentations).
 
 
