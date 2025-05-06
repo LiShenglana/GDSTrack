@@ -1,10 +1,10 @@
-# MAT
-[Representation Learning for Visual Object Tracking by Masked Appearance Transfer](./misc/CVPR_23_MAT_Final.pdf)
+# GDSTrack
+[Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking](./misc/CVPR_23_MAT_Final.pdf)
 
 
 ---
 
-![MAT](./misc/MAT.png)
+![GDSTrack](./misc/MAT.png)
 
 ## **Installation**
 
