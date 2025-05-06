@@ -124,7 +124,7 @@ python test.py --gpu_id=0,1 --num_process=0 --experiment=translate_track --train
 
 
 ---
-
+"""
 ## Citation
 
 ```bibtex
@@ -137,6 +137,7 @@ python test.py --gpu_id=0,1 --num_process=0 --experiment=translate_track --train
     pages     = {18696-18705}
 }
 ```
+"""
 
 ## **Acknowledgments**
 
