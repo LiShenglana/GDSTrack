@@ -1,5 +1,5 @@
 # GDSTrack
-[Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking](./misc/CVPR_23_MAT_Final.pdf)
+[Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking](https://arxiv.org/abs/2505.03507)
 
 
 ---
