@@ -124,20 +124,19 @@ python test.py --gpu_id=0,1 --num_process=0 --experiment=translate_track --train
 
 
 ---
-"""
 ## Citation
 
 ```bibtex
-@InProceedings{Zhao_2023_CVPR,
-    author    = {Zhao, Haojie and Wang, Dong and Lu, Huchuan},
-    title     = {Representation Learning for Visual Object Tracking by Masked Appearance Transfer},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2023},
-    pages     = {18696-18705}
+@misc{GDSTrack_2025_IJCAI,
+      title={Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking}, 
+      author={Shenglan Li and Rui Yao and Yong Zhou and Hancheng Zhu and Kunyang Sun and Bing Liu and Zhiwen Shao and Jiaqi Zhao},
+      year={2025},
+      eprint={2505.03507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.03507}, 
 }
 ```
-"""
 
 ## **Acknowledgments**
 
