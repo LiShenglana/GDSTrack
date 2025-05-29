@@ -4,7 +4,7 @@
 
 ---
 
-![GDSTrack](./pipeline-png.png.emf)
+![GDSTrack](./pipeline-png.png)
 
 ## **Installation**
 
